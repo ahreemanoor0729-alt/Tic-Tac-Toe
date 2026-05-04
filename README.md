@@ -1,58 +1,37 @@
 TIC-TAC-TOE GAME (PYTHON GUI)
 
-Project Description
+Submitted By
 
-• This project is a Tic-Tac-Toe game developed in Python.
-• It uses the Tkinter library to create a graphical user interface (GUI).
-• The game is interactive and allows two players to play on the same computer.
+-Ahreema Noor
+
+-Zoya Fatima
+
+Introduction
+
+-This project is a Tic Tac Toe game developed in Python with a graphical user interface (GUI).
+
+-It was created to learn programming concepts and build an interactive game.
+
+Working
+
+-The game displays a 3×3 board where two players take turns placing X and O.
+
+-The game continues until a player wins or the match ends in a draw.
 
 Objective
 
-• The main objective is to learn GUI development using Python.
-• It helps in understanding game logic such as player turns, winning conditions, and draw situations.
-• This is a beginner-friendly project for improving programming skills.
+-The main objective of this project was to understand game logic, user interaction, and GUI development in Python.
 
-Features
+Programming
 
-• The game has a simple and user-friendly interface.
-• It supports two-player gameplay using X and O.
-• It automatically detects the winner and draw situations.
-• Winning buttons are highlighted in green.
-• It also displays the current player's turn.
+-Python was used to handle the game logic, player turns, move validation, and winning conditions.
 
-Technologies Used
+Learning
 
-• This project is developed using Python programming language.
-• Tkinter library is used for creating the graphical interface.
+-I learned how to use a GUI library in Python and how to create an interactive graphical interface.
 
-How to Run
+Note
 
-• Install Python on your system.
-• Download or clone the project files.
-• Open the project folder.
-• Run the file using the command: python tic-tac-toe.py
+-AI tools were used for guidance, debugging, and improving the project documentation.
 
-Game Rules
-
-• Player X and Player O take turns marking the boxes.
-• The first player to get three marks in a row, column, or diagonal wins the game.
-• If all boxes are filled and no player wins, the match is declared a draw.
-
-Project Files
-
-• tic-tac-toe.py contains the main game logic and interface.
-• README.md contains the project documentation.
-
-Authors
-
-• Ahreema Noor
-• Zoya Fatima
-
-License
-
-• This project is licensed under the MIT License.
-
-Conclusion
-
-• This project helps beginners understand Python and GUI programming.
-• It is a simple and useful way to learn interactive application development.
+Written by: Ahreema Noor
